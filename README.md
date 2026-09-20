@@ -7,10 +7,9 @@
 
 🎓 Computer Science undergraduate student  
 💻 Currently pursuing BSCS at KICSIT University  
-🌱 Learning C++ and Python  
-🌐 Interested in Web Development  
-🗄️ Working with MongoDB  
-🚀 Exploring different areas of Computer Science  
+🌱 Learning C++ and Python, Web Development & Databases 
+🚀  Building projects to improve my practical skills
+📚 Always learning and exploring new technologies
 
 ---
 
