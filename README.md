@@ -40,13 +40,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="65" height="65"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dev-C%2B%2B_logo.svg/48px-Dev-C%2B%2B_logo.svg.png"
+     width="65"
+     height="65"
+     alt="Dev-C++ Logo">
 </p>
 
-### Dev-C++
 
-<img src="https://raw.githubusercontent.com/ThomasHollis/Dev-Cpp/master/Dev-Cpp.png" width="65" height="65"/>
-
----
 
 
 
