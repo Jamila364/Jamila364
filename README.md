@@ -32,33 +32,12 @@ software development, and learning new technologies.
 ### 🗄️ Database
 - SQL
 - MongoDB
-
+- 
 ### 🔧 Tools
 - Git
 - GitHub
 - VS Code
-
----
-
-## 🚀 My Projects
-
-### 🛡️ FraudShield – Community Scam Alert & Reporting System
-A web-based system designed to report and search scam
-numbers, messages, and links.
-
-### 🩸 Blood Donation Management System
-A system designed to manage blood donors, blood groups,
-and donation-related information.
-
-### 🎮 Find The Treasure
-A C++ game project developed using Object-Oriented Programming concepts.
-
-### 🛒 Products List App
-A MongoDB-based project for managing and organizing product information.
-
-### 👨‍🎓 Student Management System
-A project designed to manage and organize student information.
-
+- 
 ---
 
 ## 🎯 My Goals
@@ -68,6 +47,3 @@ A project designed to manage and organize student information.
 - 🌱 Learn modern technologies
 - 🤝 Contribute to open-source projects
 - 💻 Become a skilled software developer
-
-
-⭐ **Thanks for visiting my profile!**
