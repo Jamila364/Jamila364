@@ -1,49 +1,56 @@
-# Hi 👋, I'm Jamila 
-
-🎓 **BS Computer Science Student**  
-💻 **Aspiring Software Developer**  
-🌱 **Learning • Building • Improving**
+# 👋 Hi, I'm Jamila Kanwal
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a BS Computer Science student passionate about programming,
-software development, and learning new technologies.
-
-- 🎓 Currently studying BS Computer Science
-- 💻 Interested in Software Development
-- 🌱 Currently learning C++, Python, Web Development & Databases
-- 🚀 Building projects to improve my practical skills
-- 📚 Always learning and exploring new technologies
+🎓 Computer Science undergraduate student  
+💻 Currently pursuing BSCS at KICSIT University  
+🌱 Learning C++ and Python  
+🌐 Interested in Web Development  
+🗄️ Working with MongoDB  
+🚀 Exploring different areas of Computer Science  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🎓 Education
 
-### 💻 Programming
-- C++
-- Python
+### Bachelor of Science in Computer Science (BSCS)
 
-### 🌐 Web Development
-- HTML
-- CSS
+**KICSIT University**
 
-### 🗄️ Database
-- SQL
-- MongoDB
-- 
-### 🔧 Tools
-- Git
-- GitHub
-- VS Code
-- 
+**2024 – Present**
+
 ---
 
-## 🎯 My Goals
+## 💻 Languages
 
-- 🚀 Build real-world software projects
-- 💡 Improve my programming skills
-- 🌱 Learn modern technologies
-- 🤝 Contribute to open-source projects
-- 💻 Become a skilled software developer
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65"/>
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="65" height="65"/>
+</p>
+
+### Dev-C++
+
+<img src="https://raw.githubusercontent.com/ThomasHollis/Dev-Cpp/master/Dev-Cpp.png" width="65" height="65"/>
+
+---
+
+
+
+
+
+
+
