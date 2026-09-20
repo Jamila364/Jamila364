@@ -6,9 +6,13 @@
 ## 👩‍💻 About Me
 
 🎓 Computer Science undergraduate student  
+
 💻 Currently pursuing BSCS at KICSIT University  
+
 🌱 Learning C++ and Python, Web Development & Databases 
+
 🚀  Building projects to improve my practical skills
+
 📚 Always learning and exploring new technologies
 
 ---
